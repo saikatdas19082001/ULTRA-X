@@ -28,18 +28,16 @@ uptime = tim
 #time = date + time okay
 TIME = time.asctime(time.localtime())
 #my name 👇
-ULTRAX = "[υℓтяα χ](https://t.me/ULTRAXOT)"
-#my bots repo 👇
-REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
+ULTRAX = "[ᴅᴇᴀᴅ™ ‣](https://t.me/DeadXn)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
+GROUP = "[SUPPORT CHANNEL](https://t.me/DeadNetwork)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "υℓтяα χ вσт ιѕ ση 🔥 ƒιяє 🔥" 
-OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ υℓтяα χ вσт ι αм тнє вєѕт υѕєявσт 💝"
+ALIVE = "ᴅᴇᴀᴅ𝕏ʙᴏᴛ on Fire🔥" 
+OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ ᴅᴇᴀᴅ𝕏ʙᴏᴛ ι αм тнє вєѕт υѕєявσт 💝"
 EMOJI = "🔥"
